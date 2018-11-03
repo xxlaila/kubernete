@@ -1,3 +1,3 @@
-#FROM gcr.io/google_containers/flannel-amd64:0.5.5
+FROM gcr.io/google_containers/flannel-amd64:0.5.5
 FROM quay.io/repository/coreos/flannel:v0.10.0-s390x
 MAINTAINER shida <cq_xxlaila@163.com>
