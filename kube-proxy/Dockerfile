@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy:v1.12.2
+FROM gcr.io/google_containers/kube-proxy:v1.13.0
 MAINTAINER xxlaila <cq_xxlaila@163.com>
